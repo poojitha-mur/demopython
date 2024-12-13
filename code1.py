@@ -13,3 +13,4 @@ def printhello(name):
 printhello("pooji")
 
 print("Hi added")
+print("pulled")
