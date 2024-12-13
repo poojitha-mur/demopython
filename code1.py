@@ -6,3 +6,7 @@ def fib(n):
 
 res=fib(5)
 print(res)
+
+def printhello(name):
+    print(f"Hello{name})
+printhello("pooji")
