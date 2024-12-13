@@ -4,5 +4,5 @@ def fib(n):
         result+=i
     return result
 
-a=fib(5)
-print(a)
+res=fib(5)
+print(res)
