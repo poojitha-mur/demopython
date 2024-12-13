@@ -8,9 +8,8 @@ res=fib(5)
 print(res)
 print("me")
 def printhello(name):
-    print(f"Hello{name}")
-
-name="pooji"
-printhello(name)
+    print(f"Hello{name})
+    print("me")
+printhello("pooji")
 
 print("Hi added")
