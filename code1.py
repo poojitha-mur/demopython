@@ -10,3 +10,5 @@ print(res)
 def printhello(name):
     print(f"Hello{name})
 printhello("pooji")
+
+print("Hi")
